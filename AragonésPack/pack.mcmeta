@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": "Traduccion al aragonés para Minecraft"
+  },
+  "language": {
+    "an_es": {
+      "name": "Aragonés",
+      "region": "Aragón",
+      "bidirectional": false
+    }
+  }
+}
